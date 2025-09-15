@@ -36,5 +36,10 @@ OpenCV를 이용하여 웹캠 영상을 프리뷰하고, 원하는 시점에 녹
 
 ## 저장
 녹화된 파일은 recordings/ 폴더에 .mp4 형식으로 저장됩니다.
+
+---
+
+## 실행 예시 (Demo Video)
+[시연 영상 보러가기](demo.mp4)
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
