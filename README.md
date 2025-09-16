@@ -40,7 +40,7 @@ OpenCV를 이용하여 웹캠 영상을 프리뷰하고, 원하는 시점에 녹
 ---
 
 ## 실행 예시(demo)
-- **video-recoder_demo.mp4** : 전체 데모 영상
+- **[video-recoder_demo.mp4](https://github.com/22118Y/video-recorder/blob/main/video-recoder_demo.mp4)** : 전체 데모 영상
 - **record_20250915_211448.mp4** : 화면 녹화 영상
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
